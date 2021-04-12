@@ -9,7 +9,7 @@ body {
     color: #fff;
     font-family: 'Press Start 2P', cursive;
 }
-.chubby {
+.cryptopunk {
     max-width: 800px;
     margin-top: 20px;
 }
@@ -62,45 +62,48 @@ input[type="text"] {
 
 }
 
-.chubby-info {
+.cryptopunk-info {
     margin: 20px;
-    padding: 10px;
+    padding: 20px;
     border: 2px #ff04b4 dashed;
     border-radius: 5px;
+    max-width: 400px;
 }
 
-.chubby-address {
+.cryptopunk-address {
     font-size: 8px;
     color: #ff04b4;
 }
 
-.chubby-traits {
+.cryptopunk-traits {
     color: #fff; 
 }
 
-.chubby-traits-link {
+.cryptopunk-traits-link {
     color: #ff04b4;
 }
 
-.chubby-birthday-date {
+.cryptopunk-birthday-date {
     color: #ff04b4;
 }
 
-.chubby-title {
+.cryptopunk-title {
     color: #ff04b4;
     font-size: 25px;
 }
-.chubby-title-sub {
+.cryptopunk-title-sub {
     color: #a0a0a0;
     font-size: 15px;
 }
 
-.chubby-namebase {
+.cryptopunk-namebase {
     color: #fff; 
     margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: small;
 }
 
-.chubby-namebase-link {
+.cryptopunk-namebase-link {
     color: #ff04b4;
 }
 
@@ -112,6 +115,9 @@ input[type="text"] {
 
 .handle-link {
     color: #fff;
+}
+.cryptopunk-img {
+    max-width: 400px;
 }
 
 

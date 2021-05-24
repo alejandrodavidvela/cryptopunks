@@ -1,6 +1,19 @@
 # cryptopunks
-web app that lets you lookup cryptopunks by #. I used the OpenSea API along with my Handshake Top Level Domain .phb/
+![alt text](main.png)
 
-go to http://cryptopunks.phb.hns.to
+Description:
+Web app that lets you lookup Cryptopunks by #
 
-or if you have a HNS enabled browser go to cryptopunks.phb/
+You can view the site at http://cryptopunks.phb.hns.to
+
+This project used the following:
+1. HTML
+2. Javascript
+3. CSS
+4. OpenSea API
+
+
+
+
+
+

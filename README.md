@@ -13,7 +13,8 @@ Web app that lets you lookup Cryptopunks by #
 4. OpenSea API
 
 
-
+Also made another one for a crypto pizza project with the same layout
+autumn-poetry-4971.on.fleek.co
 
 
 

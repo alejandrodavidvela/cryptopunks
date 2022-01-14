@@ -14,7 +14,7 @@ Web app that lets you lookup Cryptopunks by #
 
 
 Also made another one for a crypto pizza project with the same layout
-autumn-poetry-4971.on.fleek.co
+https://autumn-poetry-4971.on.fleek.co/
 
 
 
